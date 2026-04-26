@@ -10,10 +10,10 @@ Análisis de **33,052 denuncias reales** de consumidores registradas en 2019 y 2
 El objetivo es **predecir el motivo de una denuncia** según el rubro de la empresa,
 el mes y la comuna aplicando Machine Learning.
 
-## 🎯 Objetivo
+## Objetivo
 Anticipar problemas frecuentes antes de que escalen, usando clasificación supervisada.
 
-## 🛠️ Herramientas utilizadas
+## Herramientas utilizadas
 | Herramienta | Uso |
 |-------------|-----|
 | Python | Lenguaje principal |
@@ -21,20 +21,18 @@ Anticipar problemas frecuentes antes de que escalen, usando clasificación super
 | Matplotlib / Seaborn | Visualizaciones |
 | Scikit-learn | Modelos de ML |
 
-## 📊 Dataset
+## Dataset
 - **33,052 registros** de denuncias
 - Años: **2019 y 2020**
 - Variables: rubro, mes, comuna, motivo
 
-## 🔍 Proceso
+## Proceso
 1. Carga y exploración del dataset (EDA)
 2. Limpieza y preprocesamiento de datos
 3. Visualización de distribuciones
 4. Entrenamiento del modelo de clasificación
 5. Evaluación de resultados
 
-## 📈 Resultados
-> Aquí describes el accuracy u otras métricas que obtuviste
 
 ## 🚀 Cómo ejecutar
 ```bash
@@ -44,4 +42,4 @@ jupyter notebook
 ```
 
 ## 👩‍💻 Autora
-**Doménica Bolaños** · ESPOL · [LinkedIn](tu-link) · [Portfolio](tu-link)
+Doménica Bolaños · ESPOL · [LinkedIn](tu-link) · [Portfolio](tu-link)
